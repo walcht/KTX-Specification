@@ -2,7 +2,7 @@
 /* vi: set sw=2 ts=4 expandtab textwidth=70: */
 
 /*
- * Copyright 2024 Mark Callow.
+ * Copyright 2026 The Khronos Group Inc.
  * SPDX-License-Identifier: Apache-2.0
  */
 
@@ -16,6 +16,8 @@
  * Note that this requires a @c vulkan_core.h and @c dxgiformat.h which is
  * currently hard-coded (i.e., not automatically fetched from some official
  * Microsoft registry due to the non existence of such registry).
+ *
+ * @author Walid Chtioui, individual contributor (walid.chtioui.main@gmail.com)
  */
 
 #include "vulkan/vulkan_core.h"
